@@ -35,6 +35,19 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
+
+## Implementatiom
+
+![Screenshot (1027)](https://github.com/user-attachments/assets/b93eef39-bed5-469b-9c39-0683583dd961)
+
+![Screenshot (1032)](https://github.com/user-attachments/assets/51711347-cf3e-4423-b080-4946ba1ea39a)
+
+![Screenshot (1028)](https://github.com/user-attachments/assets/e54bb4e7-f026-40ef-89c4-7c74decf3122)
+
+
+
+
+
 ## Usage
 
 1. Run the Streamlit app by executing:
